@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- main -->
+	<string id="00000">Movie2Free Kodi Add-on</string>
+	<string id="00001">หน้า</string>
+	<string id="00002">ถอยกลับ</string>
+	<string id="00003">ถัดไป</string>
+	<string id="00004">ออก</string>
+	<string id="00005">หน้าต่อไป</string>
+	<string id="00006">Thai</string>
+	<!-- Menu 1 -->
+	<string id="10000">หมวดหมู่หนัง</string>
+	<string id="10001">ประเภทหนัง</string>
+	<string id="10002">ค้นหา</string>	
+	<string id="10003">ทีวีออนไลน์</string>
+	<string id="10004">-</string>
+	<string id="10005">-</string>
+	<string id="10006">-</string>
+	<string id="10007">-</string>
+	<string id="10008">-</string>
+	<string id="10009">-</string>
+	<string id="10010">-</string>
+	<string id="10011">-</string>
+	<string id="10012">-</string>
+	<string id="10013">-</string>
+	<string id="10014">-</string>
+	<string id="10015">-</string>
+	<string id="10016">-</string>
+	<string id="11017">-</string>
+	<string id="11018">-</string>
+	<string id="11001">หนังชุด</string>
+	<!-- Menu 1-1 -->
+	<string id="20000">หนังเพิ่มใหม่</string>
+	<string id="20001">หนัง</string>
+	<string id="20002">ดูมากที่สุด</string>
+	<string id="20003">หนังฝรั่ง</string>
+	<string id="20004">หนังภาคต่อ</string>
+	<string id="20005">หนังการ์ตูน</string>
+	<string id="20006">การ์ตูนภาคต่อ</string>
+	<string id="20007">คนชอบมากที่สุด</string>
+	<string id="20008">หนังออกใหม่</string>
+	<!-- Menu 1-2 Serie-->
+	<string id="21001">ซีรีย์ฝรั่ง</string>
+	<string id="21002">ซีรีย์เกาหลี</string>
+	<string id="21003">ซีรีย์ญี่ปุ่น</string>
+	<string id="21004">ซีรีย์จีน-ไต้หวัน</string>
+	<!-- Menu 2 -->
+	<string id="30000">บู๊</string>
+	<string id="30001">ผจญภัย</string>
+	<string id="30002">การ์ตูน</string>
+	<string id="30003">ชีวิตจริง</string>
+	<string id="30004">ตลก</string>
+	<string id="30005">อาชญากรรม</string>
+	<string id="30006">สารคดี</string>
+	<string id="30007">ชีวิต</string>
+	<string id="30008">ครอบครัว</string>
+	<string id="30009">เทพนิยาย</string>
+	<string id="30010">ประวัติศาสตร์ </string>
+	<string id="30011">สยองขวัญ</string>
+	<string id="30012">เพลง</string>
+	<string id="30013">ลึกลับซ่อนเงื่อน</string>
+	<string id="30014">โรแมนติก</string>
+	<string id="30015">วิทยาศาสตร์</string>
+	<string id="30016">กีฬา</string>
+	<string id="30017">ระทึกขวัญ</string>
+	<string id="30018">สงคราม </string>
+	<string id="30019">คาวบอยตะวันตก</string>
+	<!-- Setting -->
+	<string id="50000">ตำแหน่งที่เก็บไฟล์ของคุณ</string>
+	<string id="50001">ชื่อผู้ใช้ </string>
+	<string id="50002">รหัสผ่าน </string>
+	<!-- Dialogs -->
+	<string id="60000">ดาวน์โหลด</string>
+	<string id="60001">คุณยังไม่ได้ตั้งค่าตำแหน่งที่เก็บไฟล์</string>
+	<string id="60003">[B][COLOR red]ช่องนี้ยังไม่เปิดให้บริการ[/COLOR][/B]</string>
+	<string id="60004">กรุณากลับมาใหม่อีกครั้งเมื่อถึงเวลา</string>
+	<string id="60005">Notice: This's Free Add-on.</string>
+	<!-- Notify -->
+	<string id="70000">[B]กำลังดาวน์โหลด[/B]</string>
+	<string id="70002">เครือข่ายผิดพลาด (อินเตอร์เน็ตอาจจะหลุด หรือเซิฟเวอร์ล่ม)</string>
+	<string id="70010">[COLOR red]ผิดพลาด[/COLOR]</string>
+	<string id="70011">404 ไม่พบข้อมูลที่ต้องการ</string>
+	<string id="70012">กรุณาล็อกอินก่อนที่เมนูตั้งค่าปลั๊กอิน</string>
+	<string id="70013">พลังงานของคุณในวันนี้ได้หมดลงแล้ว กรุณารอเติมพลังในวันพรุ่งนี้</string>
+	<string id="80000">[B]รายการโปรดของฉัน[/B]</string>
+	<string id="80001">[B]เพิ่มรายการโปรดของฉัน[/B]</string>
+	<string id="80002">[B]ลบออกจากรายการโปรดของฉัน[/B]</string>
+	<string id="80003">ยังไม่มี รายการโปรด !</string>
+	<string id="70001">[B]ดาวน์โหลดสำเร็จ[/B]</string>
+	<!-- Favs -->
+	<string id="60002">ต้องการตั้งค่าเลยหรือไม่?</string>
+	<string id="80004">คลิกขวา: ในเรื่องที่ชื่นชอบ</string>
+	<string id="80005">เลือก: [COLOR red][B]เพิ่มรายการโปรดของฉัน[/B][/COLOR]</string>
+	<!-- Resolution -->
+	<string id="90001">พากย์ไทย HD</string>
+	<string id="90002">พากย์ไทย SD</string>
+	<string id="90003">ซับไทย HD</string>
+	<string id="90004">ซับไทย SD</string>
+</strings>
