@@ -3,7 +3,7 @@
 	<extension point="xbmc.addon.repository" name="Movie2Free2 XBMC Add-ons">
 		<info compressed="false">https://github.com/watcharakorn/Movie2Free2/blob/master/addons.xml</info>
 		<checksum>https://github.com/watcharakorn/Movie2Free2/blob/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/watcharakorn/Movie2Free2/blob/master/</datadir>
+		<datadir zip="true">https://github.com/watcharakorn/Movie2Free2/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install Add-ons from Movie2Free2 Add-on Repository</summary>
