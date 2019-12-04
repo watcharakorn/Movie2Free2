@@ -65,6 +65,9 @@
 	<string id="30017">Thriller</string>
 	<string id="30018">War</string>
 	<string id="30019">Western</string>
+	<string id="30020">Sitcom</string>
+	<string id="30021">TV Show</string>
+	<string id="30022">Xmas</string>
 	<!-- Setting -->
 	<string id="50000">Download Path</string>
 	<string id="50001">Username</string>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.movie2free2" name="Movie2Free2 Add-on Repository" version="1.0.0" provider-name="watcharakorn/narbandit">
+<addon id="repository.movie2free2" name="Movie2Free2 Add-on Repository" version="1.0.1" provider-name="watcharakorn/narbandit">
 	<extension point="xbmc.addon.repository" name="Movie2Free2 XBMC Add-ons">
 		<info compressed="false">https://github.com/watcharakorn/Movie2Free2/blob/master/addons.xml</info>
 		<checksum>https://github.com/watcharakorn/Movie2Free2/blob/master/addons.xml.md5</checksum>
