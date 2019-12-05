@@ -1,33 +1,60 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <addons>
+
 <addon id="plugin.video.movie2free2" name="Movie2Free2" version="1.0.1" provider-name="watcharakorn/narbandit">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <language></language>
-    <summary lang="en">Movie2Free2</summary>
-    <summary lang="th">Movie2Free2</summary>
-    <description lang="en">This Plugin provides access to movies on website http://www.movie2free2.com</description>
-    <description lang="th">ปลั๊กอินนี้ใช้สำหรับดูภาพยนต์จากเวปไซต์ [CR] http://www.movie2free2.com ฟรี</description>
-  </extension>
+ 
+	<requires>
+
+		<import addon="xbmc.python" version="2.1.0"/>
+ 
+	</requires>
+  
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+    
+		<provides>video</provides>
+  
+	</extension>
+ 
+	<extension point="xbmc.addon.metadata">
+   
+		 <platform>all</platform>
+    
+		<language></language>
+    
+		<summary lang="en">Movie2Free2</summary>
+
+		<summary lang="th">Movie2Free2</summary>
+
+		<description lang="en">This Plugin provides access to movies on website http://www.movie2free2.com</description>
+ 
+		<description lang="th">ปลั๊กอินนี้ใช้สำหรับดูภาพยนต์จากเวปไซต์ [CR] http://www.movie2free2.com ฟรี</description>
+
+	</extension>
+
 </addon>
+
 
 <addon id="repository.movie2free2" name="Movie2Free2 Add-on Repository" version="1.0.1" provider-name="watcharakorn/narbandit">
 	<extension point="xbmc.addon.repository" name="Movie2Free2 XBMC Add-ons">
+
 		<info compressed="false">https://github.com/watcharakorn/Movie2Free2/blob/master/addons.xml</info>
-		<checksum>https://github.com/watcharakorn/Movie2Free2/blob/master/addons.xml.md5</checksum>
+						<checksum>https://github.com/watcharakorn/Movie2Free2/blob/master/addons.xml.md5</checksum>
+
 		<datadir zip="true">https://github.com/watcharakorn/Movie2Free2/</datadir>
+
 	</extension>
+
 	<extension point="xbmc.addon.metadata">
+
 		<summary>Install Add-ons from Movie2Free2 Add-on Repository</summary>
+
 		<description>Plug-ins for XBMC</description>
+
 		<disclaimer>Add-ons that access to movies on website http://www.movie2free2.com with XBMC</disclaimer>
-		<platform>all</platform>
+				<platform>all</platform>
 	</extension>
+
 </addon>
+
 </addons>
