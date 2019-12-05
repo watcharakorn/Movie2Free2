@@ -20,9 +20,9 @@
     <website>http://www.movie2free2.com</website>
     <email>man2009@hotmail.com</email> 
     <source>https://github.com/watcharakorn/movie2free2/</source>
-    <news>v1.0.1 (05/12/2019)
-      [new] update movies list
-      [fix] fix movies list error
+    <news>v1.0.2 (05/12/2019)
+      [new] update version 1.0.2
+      [fix] move icon and fanart to folder resources
     </news>
     <assets>
         <icon>resources/icon.png</icon>
