@@ -228,7 +228,12 @@ def list_videos(url):
       
     
     for y in range(0, len(moviefilm)):
-        temp = [moviefilm[y][1],moviefilm[y][3],moviefilm[y][2]]; 
+        if moviefilm[y][2][:1] == '/':
+            img = 'http://www.movie2free2.com' + moviefilm[y][2]         
+        else:
+            img = moviefilm[y][2]
+            
+        temp = [moviefilm[y][1],moviefilm[y][3],img]; 
         a.append(temp)
         
     total = len(a)
@@ -717,7 +722,7 @@ def get_params():
 
     return param
 
-version = '1.0.0'
+version = '1.0.3'
 addon_id = 'plugin.video.movie2free2'
 selfAddon = xbmcaddon.Addon(id=addon_id)
 addonfolder = os.path.join(selfAddon.getAddonInfo('path'),'')

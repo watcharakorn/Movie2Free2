@@ -8,4 +8,8 @@
 *version: 1.0.2
 *-upadte icon.png and fanart.jpg
 
+<05/12/2019>
+*version: 1.0.3
+*-fix error movie image locate in own website not show
+
  
