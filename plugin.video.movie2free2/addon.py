@@ -72,6 +72,7 @@ STRINGS = {
     'menu_sequelcartton': '20006',
     'menu_favorite': '20007',
     'menu_newmovie': '20008',
+    'menu_featured': '20009',
     'menu_serie_english':'21001',
     'menu_serie_korea':'21002',
     'menu_serie_japan':'21003',
@@ -165,36 +166,37 @@ def CATEGORIES():
 ###################################################################################
 #SUBMENU
 def categories():
-    addDir(_('menu_addnew'),'https://www.movie2free2.com/',2,artfolder + 'NewUpdate.jpg')
+    addDir(_('menu_featured'),'https://www.movie2free2.com/',2,artfolder + 'featured.jpg')
     addDir(_('menu_newmovie'),'https://www.movie2free2.com/just-updated/',2,artfolder + 'NewUpdate.jpg')
-    addDir(_('menu_movie'),'https://www.movie2free2.com/movies/',2,artfolder + 'English.jpg')
-    addDir(_('menu_serie'),'https://www.movie2free2.com/tv-series/',2,artfolder + 'Serie.jpg')
     addDir(_('menu_mostview'),'https://www.movie2free2.com/most-viewed/',2,artfolder + 'Like.jpg')
+    addDir(_('menu_movie'),'https://www.movie2free2.com/movies/',2,artfolder + 'movies.jpg')
+    addDir(_('menu_serie'),'https://www.movie2free2.com/tv-series/',2,artfolder + 'Serie.jpg')
+    
 
 def genre():
 
-    addDir(_('genre_action'),'http://www.movie2free2.com/action/',2,artfolder + 'Action.jpg')
-    addDir(_('genre_adventure'),'http://www.movie2free2.com/adventure/',2,artfolder + 'Adventure.jpg')
-    addDir(_('genre_cartoon'),'http://www.movie2free2.com/animation/',2,artfolder + 'Animation.jpg')
-    addDir(_('genre_bioghapy'),'http://www.movie2free2.com/biography/',2,artfolder + 'Biography.jpg')
-    addDir(_('genre_comedy'),'http://www.movie2free2.com/comedy/',2,artfolder + 'Comedy.jpg')
-    addDir(_('genre_crime'),'http://www.movie2free2.com/crime/',2,artfolder + 'Crime.jpg')
-    addDir(_('genre_documentary'),'http://www.movie2free2.com/documentary/',2,artfolder + 'Documentary.jpg')
-    addDir(_('genre_drama'),'http://www.movie2free2.com/drama/',2,artfolder + 'Drama.jpg')
-    addDir(_('genre_family'),'http://www.movie2free2.com/family/',2,artfolder + 'Family.jpg')
-    addDir(_('genre_fantasy'),'http://www.movie2free2.com/fantasy/',2,artfolder + 'Fantasy.jpg')
-    addDir(_('genre_history'),'http://www.movie2free2.com/history/',2,artfolder + 'History.jpg')
-    addDir(_('genre_horror'),'http://www.movie2free2.com/horror/',2,artfolder + 'Horror.jpg')
-    addDir(_('genre_musical'),'http://www.movie2free2.com/musical/',2,artfolder + 'Musical.jpg')
-    addDir(_('genre_mystery'),'http://www.movie2free2.com/mystery/',2,artfolder + 'Mystery.jpg')
-    addDir(_('genre_romance'),'http://www.movie2free2.com/romance/',2,artfolder + 'Romance.jpg')
-    addDir(_('genre_scifi'),'http://www.movie2free2.com/sci-fi/',2,artfolder + 'Scifi.jpg')
-    addDir(_('genre_sitcom'),'http://www.movie2free2.com/sitcom/',2,artfolder + 'Sitcom.jpg')
-    addDir(_('genre_sport'),'http://www.movie2free2.com/sport/',2,artfolder + 'Sport.jpg')
-    addDir(_('genre_thiller'),'http://www.movie2free2.com//thriller/',2,artfolder + 'Thriller.jpg')
-    addDir(_('genre_tvshow'),'http://www.movie2free2.com//tv-show/',2,artfolder + 'TVShow.jpg')
-    addDir(_('genre_war'),'http://www.movie2free2.com/war/',2,artfolder + 'War.jpg')
-    addDir(_('genre_xmas'),'http://www.movie2free2.com/xmas/',2,artfolder + 'Xmas.jpg')
+    addDir(_('genre_action'),'https://www.movie2free2.com/action/',2,artfolder + 'Action.jpg')
+    addDir(_('genre_adventure'),'https://www.movie2free2.com/adventure/',2,artfolder + 'Adventure.jpg')
+    addDir(_('genre_cartoon'),'https://www.movie2free2.com/animation/',2,artfolder + 'Animation.jpg')
+    addDir(_('genre_bioghapy'),'https://www.movie2free2.com/biography/',2,artfolder + 'Biography.jpg')
+    addDir(_('genre_comedy'),'https://www.movie2free2.com/comedy/',2,artfolder + 'Comedy.jpg')
+    addDir(_('genre_crime'),'https://www.movie2free2.com/crime/',2,artfolder + 'Crime.jpg')
+    addDir(_('genre_documentary'),'https://www.movie2free2.com/documentary/',2,artfolder + 'Documentary.jpg')
+    addDir(_('genre_drama'),'https://www.movie2free2.com/drama/',2,artfolder + 'Drama.jpg')
+    addDir(_('genre_family'),'https://www.movie2free2.com/family/',2,artfolder + 'Family.jpg')
+    addDir(_('genre_fantasy'),'https://www.movie2free2.com/fantasy/',2,artfolder + 'Fantasy.jpg')
+    addDir(_('genre_history'),'https://www.movie2free2.com/history/',2,artfolder + 'History.jpg')
+    addDir(_('genre_horror'),'https://www.movie2free2.com/horror/',2,artfolder + 'Horror.jpg')
+    addDir(_('genre_musical'),'https://www.movie2free2.com/musical/',2,artfolder + 'Musical.jpg')
+    addDir(_('genre_mystery'),'https://www.movie2free2.com/mystery/',2,artfolder + 'Mystery.jpg')
+    addDir(_('genre_romance'),'https://www.movie2free2.com/romance/',2,artfolder + 'Romance.jpg')
+    addDir(_('genre_scifi'),'https://www.movie2free2.com/sci-fi/',2,artfolder + 'Scifi.jpg')
+    addDir(_('genre_sitcom'),'https://www.movie2free2.com/sitcom/',2,artfolder + 'Sitcom.jpg')
+    addDir(_('genre_sport'),'https://www.movie2free2.com/sport/',2,artfolder + 'Sport.jpg')
+    addDir(_('genre_thiller'),'https://www.movie2free2.com//thriller/',2,artfolder + 'Thriller.jpg')
+    addDir(_('genre_tvshow'),'https://www.movie2free2.com//tv-show/',2,artfolder + 'TVShow.jpg')
+    addDir(_('genre_war'),'https://www.movie2free2.com/war/',2,artfolder + 'War.jpg')
+    addDir(_('genre_xmas'),'https://www.movie2free2.com/xmas/',2,artfolder + 'Xmas.jpg')
 
 def list_tvchannel(url):
     html = open_url(url)
@@ -225,16 +227,24 @@ def list_videos(url):
     moviefilm = re.compile('<div data-movie-id="(.+?)" class="ml-item">.+?<a href="(.+?)".+?<img data-original="(.+?)".+?<span class="mli-info"><h2>(.+?)</h2>').findall(html)
     # id + link + img + name + 
     a = []
-      
+    dup = False
     
     for y in range(0, len(moviefilm)):
-        if moviefilm[y][2][:1] == '/':
-            img = 'http://www.movie2free2.com' + moviefilm[y][2]         
-        else:
-            img = moviefilm[y][2]
-            
-        temp = [moviefilm[y][1],moviefilm[y][3],img]; 
-        a.append(temp)
+        id = moviefilm[y][0]
+        if y>=1:
+            dup = False
+            for i in range(y-1):
+                if id==moviefilm[i][0]:
+                    dup = True
+                    break
+        if dup==False:
+            if moviefilm[y][2][:1] == '/':
+                img = 'https://www.movie2free2.com' + moviefilm[y][2]         
+            else:
+                img = moviefilm[y][2]
+                
+            temp = [moviefilm[y][1],moviefilm[y][3],img]; 
+            a.append(temp)
         
     total = len(a)
     for url2, title, img in a:

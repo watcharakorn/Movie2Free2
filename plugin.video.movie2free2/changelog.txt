@@ -7,9 +7,12 @@
 <05/12/2019>
 *version: 1.0.2
 *-upadte icon.png and fanart.jpg
-
 <05/12/2019>
 *version: 1.0.3
 *-fix error movie image locate in own website not show
+<11/12/2019>
+*version: 1.0.4
+*-update categories menu
+*-fix duplicate movies in featured menu
 
  
