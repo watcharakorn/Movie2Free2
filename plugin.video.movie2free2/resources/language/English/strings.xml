@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- main -->
+	<string id="00000">Movie2Free2 Kodi Add-on</string>
+	<string id="00001">Page</string>
+	<string id="00002">Back</string>
+	<string id="00003">Next</string>
+	<string id="00004">Exit</string>
+	<string id="00005">Next Page</string>
+	<string id="00006">English</string>
+	<!-- Menu 1 -->
+	<string id="10000">Categories</string>
+	<string id="10001">Genre</string>
+	<string id="10002">Search</string>
+	<string id="10003">TV Online</string>
+	<string id="10004">YouTube</string>
+	<string id="10005">-</string>
+	<string id="10006">-</string>
+	<string id="10007">-</string>
+	<string id="10008">-</string>
+	<string id="10009">-</string>
+	<string id="10010">-</string>
+	<string id="10011">-</string>
+	<string id="10012">-</string>
+	<string id="10013">-</string>
+	<string id="10014">-</string>
+	<string id="10015">-</string>
+	<string id="10016">-</string>
+	<string id="11017">-</string>
+	<string id="11018">-</string>
+	<string id="11001">Movie Series</string>
+	<!-- Menu 1-1 Movie-->
+	<string id="20000">New Updated</string>
+	<string id="20001">Movie</string>
+	<string id="20002">Most Viewed</string>
+	<string id="20003">International</string>
+	<string id="20004">Sequel Movie</string>
+	<string id="20005">Cartoon Animation</string>
+	<string id="20006">Sequel Cartton Animation</string>
+	<string id="20007">Favorite</string>
+	<string id="20008">New Movie</string>
+	<string id="20009">Featured</string>	
+	<!-- Menu 1-2 Serie-->
+	<string id="21001">English Series</string>
+	<string id="21002">Korean Series</string>
+	<string id="21003">Japanese Series</string>
+	<string id="21004">Chinese Series</string>
+	<!-- Menu 2 -->
+	<string id="30000">Action</string>
+	<string id="30001">Adventure</string>
+	<string id="30002">Cartoon Animation</string>
+	<string id="30003">Biography</string>
+	<string id="30004">Comedy</string>
+	<string id="30005">Crime</string>
+	<string id="30006">Documentary</string>
+	<string id="30007">Drama</string>
+	<string id="30008">Family</string>
+	<string id="30009">Fantasy</string>
+	<string id="30010">History</string>
+	<string id="30011">Horror</string>
+	<string id="30012">Musical</string>
+	<string id="30013">Mystery</string>
+	<string id="30014">Romance</string>
+	<string id="30015">Sci-Fi</string>
+	<string id="30016">Sport</string>
+	<string id="30017">Thriller</string>
+	<string id="30018">War</string>
+	<string id="30019">Western</string>
+	<string id="30020">Sitcom</string>
+	<string id="30021">TV Show</string>
+	<string id="30022">Xmas</string>
+	<!-- Setting -->
+	<string id="50000">Download Path</string>
+	<string id="50001">Username</string>
+	<string id="50002">Password</string>
+	<!-- Dialogs -->
+	<string id="60000">Download this</string>
+	<string id="60001">No download path</string>
+	<string id="60002">Do you want to you set it now?</string>
+	<string id="60003">[B][COLOR red]This Channel Unavailable[/COLOR][/B]</string>
+	<string id="60004">Please try again letter.</string>
+	<string id="60005">Notice: This's Free Add-on.</string>
+	<!-- Notify -->
+	<string id="70000">[B]download in progress[/B]</string>
+	<string id="70001">[B]DOWNLOADED[/B]</string>
+	<string id="70002">Internet Connection Error! Or Server Down!</string>
+	<string id="70010">[COLOR red]ERROR![/COLOR]</string>
+	<string id="70011">404 Not Found</string>
+	<string id="70012">Please Login first at plugin setting</string>
+	<string id="70013">Your Heart Is Empty Now. Please wait for refill.</string>	
+	<!-- Favs -->
+	<string id="80000">[B]My Favorite[/B]</string>
+	<string id="80001">[B]Add To My Favorite[/B]</string>
+	<string id="80002">[B]Delete My Favorite[/B]</string>
+	<string id="80003">No Favorites!</string>
+	<string id="80004">You need to use the context menu</string>
+	<string id="80005">to add items or folders.</string>
+	<!-- Resolution -->
+	<string id="90001">Thai Sound HD </string>
+	<string id="90002">Thai Sound SD </string>
+	<string id="90003">Sub Thai HD </string>
+	<string id="90004">Sub Thai SD </string>	
+</strings>
