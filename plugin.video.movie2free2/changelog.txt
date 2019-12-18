@@ -14,5 +14,8 @@
 *version: 1.0.4
 *-update categories menu
 *-fix duplicate movies in featured menu
-
+<18/12/2019>
+*version: 1.0.5
+*-update version
+*-code encrypted
  

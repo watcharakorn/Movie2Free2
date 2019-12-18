@@ -732,7 +732,7 @@ def get_params():
 
     return param
 
-version = '1.0.3'
+version = '1.0.5'
 addon_id = 'plugin.video.movie2free2'
 selfAddon = xbmcaddon.Addon(id=addon_id)
 addonfolder = os.path.join(selfAddon.getAddonInfo('path'),'')
