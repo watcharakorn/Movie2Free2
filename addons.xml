@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.movie2free2" name="Movie2Free2" version="1.0.6" provider-name="watcharakorn-narbandit">
+<addon id="plugin.video.movie2free2" name="Movie2Free2" version="1.0.7" provider-name="watcharakorn-narbandit">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
   </requires>
@@ -21,9 +21,9 @@
     <website>http://www.movie2free2.com</website>
     <email>man2009@hotmail.com</email>
     <source>https://github.com/watcharakorn/movie2free2/</source>
-    <news>v1.0.6 (18/12/2019)
-      [new] update version 1.0.6
-      [fix] -code encrypted and update img resources
+    <news>v1.0.7 (19/12/2019)
+      [new] update version 1.0.7
+      [fix] -code optimized
     </news>
     <assets>
         <icon>resources/icon.png</icon>
